@@ -13,6 +13,7 @@ A Cobblemon modpack for Minecraft 1.21.1 on NeoForge. Built around Cobblemon wit
 - Cobblemon Integrations
 - Cobblemon Utility+ (IVs, EVs, & more)
 - Cobblemon Size Variations
+- Cobbreeding
 - MoreCobblemonTweaks
 
 **Performance:**
@@ -21,10 +22,20 @@ A Cobblemon modpack for Minecraft 1.21.1 on NeoForge. Built around Cobblemon wit
 **Gameplay & Utility:**
 - Sophisticated Backpacks & Storage
 - Silent Gear
+- JourneyMap
+- Waystones
 - JEI (Just Enough Items)
 
+**Resource Packs:**
+- AllTheMons R3.3
+- Cobblemon Interface Recolored
+- Maxi's JM+CM Pixel
+
+**Datapacks:**
+- AllTheMons R3.3
+
 **Libraries (installed automatically):**
-- Architectury API, GeckoLib, owo-lib, Accessories, Sophisticated Core, Silent Lib
+- Architectury API, GeckoLib, owo-lib, Accessories, Sophisticated Core, Silent Lib, Kotlin for Forge, Balm
 
 ## Installation
 
